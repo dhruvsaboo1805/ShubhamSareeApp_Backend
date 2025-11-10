@@ -1,4 +1,6 @@
 package com.example.ShubhamSaree.enums;
 
-public class UserRoleType {
+public enum UserRoleType {
+    ADMIN,
+    CUSTOMER
 }
